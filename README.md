@@ -30,7 +30,7 @@ We're focused primarily on using Amazon Web Services.
 More than welcome. At this stage we want to keep the scope of the project maintained. Raise an issue via GitHub and we can discuss it there.
 
 
-##Contributers##
+##Contributors##
 This is a project by Numerical Brass Computing Ltd. Over time, the utility will reflect our deployment strategy. We've licensed this tool underneath the MIT license.
 
 - Brendon John Muschamp (brendon@numerical.co.nz)
